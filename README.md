@@ -47,7 +47,7 @@ Type Promotion
     - Converting of data from lower to higher data types.
 
 
-Arithmetic
+Arithmetic Operators
     - Adding, subtract, multiply and divide
         - num + num
         - num * num
@@ -61,3 +61,14 @@ Arithmetic
         - num /= num
     
 
+Relational Operators
+    - < less than
+    - > greater than
+    - == compare two equal values
+    - != compare not equal values
+    - <= less than or equal too
+    - >= greater than or equal too
+
+
+Logical Operators
+    - 

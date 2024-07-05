@@ -1,4 +1,4 @@
-// class DataTypes {
+// public class DataTypes {
 //     public static void main(String[] args) {
 //         // - Data Types - //
 //         // int num = 1;
