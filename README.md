@@ -71,4 +71,9 @@ Relational Operators
 
 
 Logical Operators
+    - && and operator
+    - || or operator
+    - ! not operator
+
+Conditional Operators
     - 
