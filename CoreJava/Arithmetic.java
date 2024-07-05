@@ -19,9 +19,15 @@ class Arithmetic {
         num7 = num7 + 2;
         num7 += 1;
         num7++;
+        num7--;
         num7 -= 1;
         num7 *= 7;
         num7 /= 2;
         System.out.println(num7);
+
+        int r = ++num7; // increment and then fetch the value
+        int r2 = num7++; // fetch the value and then increment
+        System.out.println(r);
+        System.out.println(r2);
     }
 }
