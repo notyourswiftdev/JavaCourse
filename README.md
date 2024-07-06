@@ -76,4 +76,28 @@ Logical Operators
     - ! not operator
 
 Conditional Operators
-    - 
+    - if/else operator
+        - example:
+        ```
+        int x = 8;
+        if (x == 8) {
+            System.out.println("equals");
+        } else {
+            System.out.println("not equal");
+        }
+        ```
+    - if/else if/else operator
+        - example:
+        ```
+        int a = 5;
+        int b = 2;
+        int c = 3;
+
+        if (a > b && b < c) {
+            System.out.println("Showing first if statement");
+        } else if (a == b) {
+            System.out.println("showing second if else statement");
+        } else {
+            System.out.println("showing third statement");
+        }
+        ```
